@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=kakaZhou719&rank=SECRET,SSS,SS,S,A,AAA,B,C&column=3&no-bg=true)](https://github.com/kakaZhou719/github-profile-trophy)
-
-
-![jiahui's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakaZhou719&show_icons=true&theme=dark&count_private=true)
