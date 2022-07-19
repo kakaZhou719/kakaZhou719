@@ -1,21 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kakaZhou719/kakaZhou719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-* <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=kakaZhou719" /> </div>
+<!-- ### Feature
 
-Here are some ideas to get you started:
+![deno](https://img.shields.io/badge/deno-000000.svg?&style=for-the-badge&logo=deno&logoColor=ffffff)
+![dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=ffffff)
+![flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=ffffff) -->
+<h4 align="center">访客数 :eyes:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=kakaZhou719&rank=SECRET,SSS,SS,S,A,AAA,B&column=3&no-bg=true)](https://github.com/kakaZhou719/github-profile-trophy)
+<p align="center"><img src="https://profile-counter.glitch.me/{kakaZhou719}/count.svg" alt="kakaZhou719 :: Visitor's Count" /></p>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kakaZhou719&theme=xcode" /> </div>
+![profile](https://github-profile-trophy.vercel.app/?username=kakaZhou719&margin-w=28)
+
+![kakaZhou719's github stats](https://github-readme-stats.vercel.app/api?username=kakaZhou719&show_icons=true&count_private=true&line_height=40)
+
+
 
