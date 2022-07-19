@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=kakaZhou719&rank=SECRET,SSS,SS,S,A,AAA,B&column=3&no-bg=true)](https://github.com/kakaZhou719/github-profile-trophy)
 
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakaZhou719" /> </div>
-
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kakaZhou719&theme=xcode" /> </div>
 
